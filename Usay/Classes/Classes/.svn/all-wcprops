@@ -1,0 +1,1289 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes
+END
+EditAddressCustomCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/EditAddressCustomCell.m
+END
+SDWebImageManagerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SDWebImageManagerDelegate.h
+END
+NotiSettingViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/NotiSettingViewController.xib
+END
+InputStatusViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InputStatusViewController.h
+END
+LoadingViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/LoadingViewController.xib
+END
+InputStatusViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InputStatusViewController.m
+END
+CellUserData.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CellUserData.h
+END
+IPAddress.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/IPAddress.c
+END
+AuthNumberViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AuthNumberViewController.h
+END
+CellUserData.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CellUserData.m
+END
+CertificationViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CertificationViewController.xib
+END
+MessageViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MessageViewController.xib
+END
+IPAddress.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/IPAddress.h
+END
+AuthNumberViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AuthNumberViewController.m
+END
+CustomNavigationBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CustomNavigationBar.h
+END
+InsertMyInfoSettingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InsertMyInfoSettingViewController.h
+END
+Compare BASE vs. Local — AddressViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/Compare%20BASE%20vs.%20Local%20%E2%80%94%20AddressViewController.m
+END
+CustomNavigationBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CustomNavigationBar.m
+END
+InviteMsgSectionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InviteMsgSectionView.h
+END
+BuddyProfileViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/BuddyProfileViewController.h
+END
+InsertMyInfoSettingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InsertMyInfoSettingViewController.m
+END
+InviteMsgSectionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InviteMsgSectionView.m
+END
+BuddyProfileViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/BuddyProfileViewController.m
+END
+ProfileHeaderView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ProfileHeaderView.xib
+END
+EditGroupViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/EditGroupViewController.h
+END
+InputNickNameViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InputNickNameViewController.h
+END
+EditGroupViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/EditGroupViewController.m
+END
+InputNickNameViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InputNickNameViewController.m
+END
+UseGuideViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/UseGuideViewController.h
+END
+CellMsgListData.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CellMsgListData.h
+END
+UseGuideViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/UseGuideViewController.m
+END
+MsgPhotoDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MsgPhotoDownloader.h
+END
+CellMsgListData.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CellMsgListData.m
+END
+NSArray-NestedArrays.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/NSArray-NestedArrays.h
+END
+MsgPhotoDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MsgPhotoDownloader.m
+END
+IDRegistrationViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/IDRegistrationViewController.h
+END
+NSArray-NestedArrays.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/NSArray-NestedArrays.m
+END
+RoomInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/RoomInfo.h
+END
+IDRegistrationViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/IDRegistrationViewController.m
+END
+SayViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SayViewController.h
+END
+MessageTableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MessageTableCell.h
+END
+Availability2.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/Availability2.h
+END
+BalloomTableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/BalloomTableCell.h
+END
+RoomInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/RoomInfo.m
+END
+SDImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SDImageCache.h
+END
+MyInfoSettingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MyInfoSettingViewController.h
+END
+HttpAgent.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/HttpAgent.h
+END
+MessageUserInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MessageUserInfo.h
+END
+Reachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/Reachability.h
+END
+RegexKitLite.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/RegexKitLite.h
+END
+SayViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SayViewController.m
+END
+SetNickNameViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SetNickNameViewController.h
+END
+MessageTableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MessageTableCell.m
+END
+BalloomTableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/BalloomTableCell.m
+END
+SDImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SDImageCache.m
+END
+HttpAgent.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/HttpAgent.m
+END
+MyInfoSettingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MyInfoSettingViewController.m
+END
+MessageUserInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MessageUserInfo.m
+END
+AddGroupViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddGroupViewController.h
+END
+Reachability.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/Reachability.m
+END
+RegexKitLite.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/RegexKitLite.m
+END
+SetNickNameViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SetNickNameViewController.m
+END
+AddressDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddressDetailViewController.h
+END
+RotatingTabBarController.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/RotatingTabBarController.h
+END
+AddGroupViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddGroupViewController.m
+END
+ShowMediaViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ShowMediaViewController.xib
+END
+LoadingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/LoadingViewController.h
+END
+AddressDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddressDetailViewController.m
+END
+RotatingTabBarController.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/RotatingTabBarController.m
+END
+LoadingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/LoadingViewController.m
+END
+ItemValueDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ItemValueDisplay.h
+END
+SDWebImageDownloaderDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SDWebImageDownloaderDelegate.h
+END
+IDMakeViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/IDMakeViewController.xib
+END
+Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/Base64.h
+END
+ItemValueDisplay.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ItemValueDisplay.m
+END
+ProfileSettingViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ProfileSettingViewController.xib
+END
+IDMakeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/IDMakeViewController.h
+END
+Base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/Base64.m
+END
+EditAddressViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/EditAddressViewController.h
+END
+ProfileSettingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ProfileSettingViewController.h
+END
+IDMakeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/IDMakeViewController.m
+END
+InviteMsgViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InviteMsgViewController.xib
+END
+EditAddressViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/EditAddressViewController.m
+END
+ProfileSettingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ProfileSettingViewController.m
+END
+WebViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/WebViewController.xib
+END
+USayHttpData.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/USayHttpData.h
+END
+ManagedObjectAttributeEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ManagedObjectAttributeEditor.h
+END
+TransPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/TransPacket.h
+END
+CheckPhoneNumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CheckPhoneNumber.h
+END
+NSData-AES.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/NSData-AES.h
+END
+USayHttpData.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/USayHttpData.m
+END
+IDRegistrationViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/IDRegistrationViewController.xib
+END
+ManagedObjectAttributeEditor.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ManagedObjectAttributeEditor.m
+END
+TransPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/TransPacket.m
+END
+CheckPhoneNumber.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CheckPhoneNumber.m
+END
+NSData-AES.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/NSData-AES.m
+END
+AsyncSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AsyncSocket.h
+END
+StartViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/StartViewController.xib
+END
+MyInfoSettingViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MyInfoSettingViewController.xib
+END
+AsyncSocket.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AsyncSocket.m
+END
+ManagedObjectSingleSelectionListEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ManagedObjectSingleSelectionListEditor.h
+END
+SDWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SDWebImageManager.h
+END
+ManagedObjectSingleSelectionListEditor.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ManagedObjectSingleSelectionListEditor.m
+END
+SDWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SDWebImageManager.m
+END
+PhotoDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/PhotoDownloader.h
+END
+UIImageView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/UIImageView+WebCache.h
+END
+PhotoDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/PhotoDownloader.m
+END
+SQLiteDataAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SQLiteDataAccess.h
+END
+UIImageView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/UIImageView+WebCache.m
+END
+InviteMsgUserInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InviteMsgUserInfo.h
+END
+ManagedObjectStringEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ManagedObjectStringEditor.h
+END
+BuddyProfileViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/BuddyProfileViewController.xib
+END
+DataAccessObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/DataAccessObject.h
+END
+SQLiteDataAccess.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SQLiteDataAccess.m
+END
+MessageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MessageViewController.h
+END
+AddressViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddressViewController.h
+END
+InviteMsgUserInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InviteMsgUserInfo.m
+END
+EditAddressViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/EditAddressViewController.xib
+END
+ManagedObjectStringEditor.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ManagedObjectStringEditor.m
+END
+SQLiteDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SQLiteDatabase.h
+END
+DataAccessObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/DataAccessObject.m
+END
+MessageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MessageViewController.m
+END
+AddressViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddressViewController.m
+END
+AddressBookData.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddressBookData.h
+END
+UserInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/UserInfo.h
+END
+SQLiteDatabase.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SQLiteDatabase.m
+END
+InviteMsgGroupInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InviteMsgGroupInfo.h
+END
+AddressBookData.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddressBookData.m
+END
+UserInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/UserInfo.m
+END
+MessageInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MessageInfo.h
+END
+BlockUserTableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/BlockUserTableCell.h
+END
+tempMsgListData.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/tempMsgListData.h
+END
+InviteMsgGroupInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InviteMsgGroupInfo.m
+END
+ApplicationCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ApplicationCell.h
+END
+InviteMsgViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InviteMsgViewController.h
+END
+MessageInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MessageInfo.m
+END
+BlockUserTableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/BlockUserTableCell.m
+END
+SettingViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SettingViewController.xib
+END
+tempMsgListData.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/tempMsgListData.m
+END
+ApplicationCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ApplicationCell.m
+END
+BlockFriendListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/BlockFriendListViewController.xib
+END
+InviteMsgViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InviteMsgViewController.m
+END
+WebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/WebViewController.h
+END
+InviteMsgTableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InviteMsgTableCell.h
+END
+BlockFriendListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/BlockFriendListViewController.h
+END
+CustomHeaderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CustomHeaderView.h
+END
+UIImage+Helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/UIImage+Helpers.h
+END
+USayAppAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/USayAppAppDelegate.h
+END
+WebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/WebViewController.m
+END
+InviteMsgTableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/InviteMsgTableCell.m
+END
+BlockFriendListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/BlockFriendListViewController.m
+END
+CustomHeaderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CustomHeaderView.m
+END
+UIImage+Helpers.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/UIImage+Helpers.m
+END
+USayAppAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/USayAppAppDelegate.m
+END
+AddrUserInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddrUserInfo.h
+END
+blockView.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/blockView.h
+END
+SayViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SayViewController.xib
+END
+AddrUserInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddrUserInfo.m
+END
+blockView.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/blockView.m
+END
+MyDeviceClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MyDeviceClass.h
+END
+Stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/Stream.h
+END
+StartViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/StartViewController.h
+END
+MyDeviceClass.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/MyDeviceClass.m
+END
+Stream.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/Stream.m
+END
+StartViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/StartViewController.m
+END
+AddressDetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddressDetailViewController.xib
+END
+SignAgreeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SignAgreeViewController.h
+END
+nationalViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/nationalViewController.h
+END
+NotiSettingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/NotiSettingViewController.h
+END
+SignAgreeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SignAgreeViewController.m
+END
+AboutViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AboutViewController.h
+END
+ProfilePhotoSelectViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ProfilePhotoSelectViewController.h
+END
+nationalViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/nationalViewController.m
+END
+CustomCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CustomCell.h
+END
+NotiSettingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/NotiSettingViewController.m
+END
+AddressButtonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddressButtonView.h
+END
+ProfileInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ProfileInfo.h
+END
+SayInputTextView.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SayInputTextView.h
+END
+AboutViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AboutViewController.m
+END
+ProfilePhotoSelectViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ProfilePhotoSelectViewController.m
+END
+CustomCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CustomCell.m
+END
+ShowMediaViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ShowMediaViewController.h
+END
+AddressButtonView.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddressButtonView.m
+END
+ProfileInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ProfileInfo.m
+END
+SayInputTextView.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SayInputTextView.m
+END
+CertificationViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CertificationViewController.h
+END
+ShowMediaViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ShowMediaViewController.m
+END
+ProposeUserViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ProposeUserViewController.h
+END
+SDWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SDWebImageDownloader.h
+END
+CertificationViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CertificationViewController.m
+END
+EditAddressGroupMultiSelectionViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/EditAddressGroupMultiSelectionViewController.h
+END
+ProposeUserViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ProposeUserViewController.m
+END
+SDWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SDWebImageDownloader.m
+END
+GroupCommunityView.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/GroupCommunityView.h
+END
+AddressInfoView.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddressInfoView.h
+END
+USayDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/USayDefine.h
+END
+BuddyPersonViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/BuddyPersonViewController.h
+END
+EditAddressGroupMultiSelectionViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/EditAddressGroupMultiSelectionViewController.m
+END
+openImgViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/openImgViewController.h
+END
+GroupCommunityView.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/GroupCommunityView.m
+END
+AddressInfoView.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddressInfoView.m
+END
+BuddyPersonViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/BuddyPersonViewController.m
+END
+openImgViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/openImgViewController.m
+END
+GroupInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/GroupInfo.h
+END
+SettingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SettingViewController.h
+END
+GroupInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/GroupInfo.m
+END
+AddBuddyViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddBuddyViewController.h
+END
+CellMsgData.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CellMsgData.h
+END
+ExtStrPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ExtStrPacket.h
+END
+SettingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/SettingViewController.m
+END
+AddBuddyViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/AddBuddyViewController.m
+END
+CellMsgData.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/CellMsgData.m
+END
+ExtStrPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/ExtStrPacket.m
+END
+EditAddressCustomCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/Classes/Classes/EditAddressCustomCell.h
+END

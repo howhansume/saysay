@@ -1,0 +1,280 @@
+<modify-entry
+   name="sync_bg@2x.PNG"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/sync_bg@2x.PNG.svn-base"
+   name=".svn/prop-base/tempfile.tmp"/>
+<readonly
+   name=".svn/prop-base/sync_bg@2x.PNG.svn-base"/>
+<modify-entry
+   committed-rev="2028"
+   committed-date="2011-04-01T11:35:01.628173Z"
+   name="sync_bg@2x.PNG"
+   last-author="howhansume2"
+   uuid="6c07d5ef-9413-2d40-b7d7-c2e3ecb4d99f"/>
+<modify-wcprop
+   name="sync_bg@2x.PNG"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/usay/client/!svn/ver/2028/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/img/webCuttingImg/sync_bg@2x.PNG"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="sync_bg@2x.PNG"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2039"/>
+<cp-and-translate
+   dest="sync_bg@2x.PNG"
+   name=".svn/tmp/text-base/sync_bg@2x.PNG.svn-base"/>
+<mv
+   dest=".svn/text-base/sync_bg@2x.PNG.svn-base"
+   name=".svn/tmp/text-base/sync_bg@2x.PNG.svn-base"/>
+<readonly
+   name=".svn/text-base/sync_bg@2x.PNG.svn-base"/>
+<modify-entry
+   name="sync_bg@2x.PNG"
+   checksum="7417f463692495fcab72cd577ca4e838"/>
+<modify-entry
+   name="sync_bg@2x.PNG"
+   text-time="working"/>
+<modify-entry
+   name="sync_bg@2x.PNG"
+   working-size="working"/>
+<modify-entry
+   name="sync_bg@2x.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/sync_bg@2x.png.svn-base"
+   name=".svn/prop-base/tempfile.2.tmp"/>
+<readonly
+   name=".svn/prop-base/sync_bg@2x.png.svn-base"/>
+<modify-entry
+   committed-rev="2026"
+   committed-date="2011-04-01T11:32:27.883644Z"
+   name="sync_bg@2x.png"
+   last-author="howhansume2"
+   uuid="6c07d5ef-9413-2d40-b7d7-c2e3ecb4d99f"/>
+<modify-wcprop
+   name="sync_bg@2x.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/usay/client/!svn/ver/2026/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/img/webCuttingImg/sync_bg@2x.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="sync_bg@2x.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2039"/>
+<cp-and-translate
+   dest="sync_bg@2x.png"
+   name=".svn/tmp/text-base/sync_bg@2x.png.svn-base"/>
+<mv
+   dest=".svn/text-base/sync_bg@2x.png.svn-base"
+   name=".svn/tmp/text-base/sync_bg@2x.png.svn-base"/>
+<readonly
+   name=".svn/text-base/sync_bg@2x.png.svn-base"/>
+<modify-entry
+   name="sync_bg@2x.png"
+   checksum="7417f463692495fcab72cd577ca4e838"/>
+<modify-entry
+   name="sync_bg@2x.png"
+   text-time="working"/>
+<modify-entry
+   name="sync_bg@2x.png"
+   working-size="working"/>
+<modify-entry
+   name="btn_servicestart.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/btn_servicestart.png.svn-base"
+   name=".svn/prop-base/tempfile.3.tmp"/>
+<readonly
+   name=".svn/prop-base/btn_servicestart.png.svn-base"/>
+<modify-entry
+   committed-rev="1531"
+   committed-date="2011-01-26T08:23:03.611861Z"
+   name="btn_servicestart.png"
+   last-author="mezzo01"
+   uuid="6c07d5ef-9413-2d40-b7d7-c2e3ecb4d99f"/>
+<modify-wcprop
+   name="btn_servicestart.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/img/webCuttingImg/btn_servicestart.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="btn_servicestart.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2039"/>
+<cp-and-translate
+   dest="btn_servicestart.png"
+   name=".svn/tmp/text-base/btn_servicestart.png.svn-base"/>
+<mv
+   dest=".svn/text-base/btn_servicestart.png.svn-base"
+   name=".svn/tmp/text-base/btn_servicestart.png.svn-base"/>
+<readonly
+   name=".svn/text-base/btn_servicestart.png.svn-base"/>
+<modify-entry
+   name="btn_servicestart.png"
+   checksum="c3e817188c06d0dfab4176336e09d452"/>
+<modify-entry
+   name="btn_servicestart.png"
+   text-time="working"/>
+<modify-entry
+   name="btn_servicestart.png"
+   working-size="working"/>
+<modify-entry
+   name="Thumbs.db"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/Thumbs.db.svn-base"
+   name=".svn/prop-base/tempfile.4.tmp"/>
+<readonly
+   name=".svn/prop-base/Thumbs.db.svn-base"/>
+<modify-entry
+   committed-rev="1531"
+   committed-date="2011-01-26T08:23:03.611861Z"
+   name="Thumbs.db"
+   last-author="mezzo01"
+   uuid="6c07d5ef-9413-2d40-b7d7-c2e3ecb4d99f"/>
+<modify-wcprop
+   name="Thumbs.db"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/img/webCuttingImg/Thumbs.db"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Thumbs.db"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2039"/>
+<cp-and-translate
+   dest="Thumbs.db"
+   name=".svn/tmp/text-base/Thumbs.db.svn-base"/>
+<mv
+   dest=".svn/text-base/Thumbs.db.svn-base"
+   name=".svn/tmp/text-base/Thumbs.db.svn-base"/>
+<readonly
+   name=".svn/text-base/Thumbs.db.svn-base"/>
+<modify-entry
+   name="Thumbs.db"
+   checksum="00397e551427b7c7fead784ed603c815"/>
+<modify-entry
+   name="Thumbs.db"
+   text-time="working"/>
+<modify-entry
+   name="Thumbs.db"
+   working-size="working"/>
+<modify-entry
+   name="sync_bg.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/sync_bg.png.svn-base"
+   name=".svn/prop-base/tempfile.5.tmp"/>
+<readonly
+   name=".svn/prop-base/sync_bg.png.svn-base"/>
+<modify-entry
+   committed-rev="2026"
+   committed-date="2011-04-01T11:32:27.883644Z"
+   name="sync_bg.png"
+   last-author="howhansume2"
+   uuid="6c07d5ef-9413-2d40-b7d7-c2e3ecb4d99f"/>
+<modify-wcprop
+   name="sync_bg.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/usay/client/!svn/ver/2026/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/img/webCuttingImg/sync_bg.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="sync_bg.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2039"/>
+<cp-and-translate
+   dest="sync_bg.png"
+   name=".svn/tmp/text-base/sync_bg.png.svn-base"/>
+<mv
+   dest=".svn/text-base/sync_bg.png.svn-base"
+   name=".svn/tmp/text-base/sync_bg.png.svn-base"/>
+<readonly
+   name=".svn/text-base/sync_bg.png.svn-base"/>
+<modify-entry
+   name="sync_bg.png"
+   checksum="f558612a1ac48a805a1c086e4189c42c"/>
+<modify-entry
+   name="sync_bg.png"
+   text-time="working"/>
+<modify-entry
+   name="sync_bg.png"
+   working-size="working"/>
+<modify-entry
+   name="btn_servicestart@2x.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/btn_servicestart@2x.png.svn-base"
+   name=".svn/prop-base/tempfile.6.tmp"/>
+<readonly
+   name=".svn/prop-base/btn_servicestart@2x.png.svn-base"/>
+<modify-entry
+   committed-rev="1531"
+   committed-date="2011-01-26T08:23:03.611861Z"
+   name="btn_servicestart@2x.png"
+   last-author="mezzo01"
+   uuid="6c07d5ef-9413-2d40-b7d7-c2e3ecb4d99f"/>
+<modify-wcprop
+   name="btn_servicestart@2x.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/usay/client/!svn/ver/1937/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/img/webCuttingImg/btn_servicestart@2x.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="btn_servicestart@2x.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2039"/>
+<cp-and-translate
+   dest="btn_servicestart@2x.png"
+   name=".svn/tmp/text-base/btn_servicestart@2x.png.svn-base"/>
+<mv
+   dest=".svn/text-base/btn_servicestart@2x.png.svn-base"
+   name=".svn/tmp/text-base/btn_servicestart@2x.png.svn-base"/>
+<readonly
+   name=".svn/text-base/btn_servicestart@2x.png.svn-base"/>
+<modify-entry
+   name="btn_servicestart@2x.png"
+   checksum="f02a7461df652ab8747b7cee76236209"/>
+<modify-entry
+   name="btn_servicestart@2x.png"
+   text-time="working"/>
+<modify-entry
+   name="btn_servicestart@2x.png"
+   working-size="working"/>
+<modify-entry
+   committed-rev="2028"
+   committed-date="2011-04-01T11:35:01.628173Z"
+   name=""
+   last-author="howhansume2"
+   uuid="6c07d5ef-9413-2d40-b7d7-c2e3ecb4d99f"/>
+<modify-wcprop
+   name=""
+   propname="svn:wc:ra_dav:version-url"
+   propval="/usay/client/!svn/ver/2028/usay/devel_iphone/1th/02.Sources/branches/UsayNativeAddr/img/webCuttingImg"/>
